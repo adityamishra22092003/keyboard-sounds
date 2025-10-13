@@ -85,6 +85,7 @@ npm install --legacy-peer-deps
 
 ```bash
 npm run dev
+npm run dev
 ```
 
 ### Building for Production
